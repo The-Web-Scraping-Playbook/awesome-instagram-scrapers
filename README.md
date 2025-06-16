@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Instagram OpsKit
+> Find out everything you need to know to reliably scrape Instagram with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/instagram)
+
+This kit provides the blueprint for Instagram scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-instagram-scrapers)
 - [Scrapers By Language](#instagram-scrapers-by-language)
@@ -36,45 +47,44 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-instagram-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) ![img](https://github.com/postaddictme.png?size=20) | php | ⭐ 3158 | ✅ Yes | 2023-10-08 | ✅ |
-| [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) ![img](https://github.com/meetmangukiya.png?size=20) | python | ⭐ 944 | ✅ Yes | 2018-06-29 | ✅ |
-| [instagram4j](https://github.com/instagram4j/instagram4j) ![img](https://github.com/instagram4j.png?size=20) | java | ⭐ 925 | ✅ Yes | 2023-08-20 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) ![img](https://github.com/postaddictme.png?size=20) | php | ⭐ 3158 | ❌ No | 2023-10-08 |
+| [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) ![img](https://github.com/meetmangukiya.png?size=20) | python | ⭐ 944 | ❌ No | 2018-06-29 |
+| [instagram4j](https://github.com/instagram4j/instagram4j) ![img](https://github.com/instagram4j.png?size=20) | java | ⭐ 925 | ❌ No | 2023-08-20 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Instagram Scrapers By Language <a id="instagram-scrapers-by-language"></a>
-
-### Java
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [instagram4j](https://github.com/instagram4j/instagram4j) | ⭐ 925 | 2023-08-20 | — | ✅ Yes |
-| [instagram-java-scraper](https://github.com/postaddictme/instagram-java-scraper) | ⭐ 459 | 2023-03-31 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) | ⭐ 944 | 2018-06-29 | immediate | ❌ No |
+| [instagram-follower-scraper](https://github.com/redianmarku/instagram-follower-scraper) | ⭐ 281 | 2024-07-22 | immediate | ❌ No |
+| [instagram-scraper](https://github.com/h4t0n/instagram-scraper) | ⭐ 147 | 2018-02-07 | immediate | ❌ No |
+| [instagram-scraper](https://github.com/Hiromi-nee/instagram-scraper) | ⭐ 40 | 2015-01-17 | beginner | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [instagram-scraper](https://github.com/drawrowfly/instagram-scraper) | ⭐ 688 | 2023-03-04 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [instagram-scraper](https://github.com/drawrowfly/instagram-scraper) | ⭐ 688 | 2023-03-04 | professional | ❌ No |
+
+
+### Java
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [instagram4j](https://github.com/instagram4j/instagram4j) | ⭐ 925 | 2023-08-20 | professional | ❌ No |
+| [instagram-java-scraper](https://github.com/postaddictme/instagram-java-scraper) | ⭐ 459 | 2023-03-31 | professional | ❌ No |
 
 
 ### Php
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) | ⭐ 3158 | 2023-10-08 | — | ✅ Yes |
-| [instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) | ⭐ 580 | 2023-11-21 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) | ⭐ 944 | 2018-06-29 | — | ✅ Yes |
-| [instagram-follower-scraper](https://github.com/redianmarku/instagram-follower-scraper) | ⭐ 281 | 2024-07-22 | — | ✅ Yes |
-| [instagram-scraper](https://github.com/h4t0n/instagram-scraper) | ⭐ 147 | 2018-02-07 | — | ✅ Yes |
-| [instagram-scraper](https://github.com/Hiromi-nee/instagram-scraper) | ⭐ 40 | 2015-01-17 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) | ⭐ 3158 | 2023-10-08 | immediate | ❌ No |
+| [instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) | ⭐ 580 | 2023-11-21 | immediate | ❌ No |
 
 ---
 
@@ -105,7 +115,7 @@ Know a Instagram scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
