@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Instagram OpsKit
-> Find out everything you need to know to reliably scrape Instagram with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/instagram)
+> Find out everything you need to know to reliably scrape Instagram with our new tool: [Ops Kit](https://scrapeops.io/websites/instagram)
 
 This kit provides the blueprint for Instagram scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -103,7 +103,7 @@ This kit provides the blueprint for Instagram scraping operations:
 ---
 
 ## 🧠 Instagram Tutorials & How-Tos<a id="instagram-tutorials"></a>
-- 📘 [How to Scrape Instagram at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-instagram/)
+- 📘 [How to Scrape Instagram at Scale](https://scrapeops.io/websites/instagram/how-to-scrape-instagram)
 - 🔐 [Web Scraping Instagram Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
